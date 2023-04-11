@@ -1,8 +1,6 @@
 #include "main.h"
 
 /**
- *
- *
  * flip_bits - number of bits you would need to flip
  *
  *

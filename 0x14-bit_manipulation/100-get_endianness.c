@@ -1,8 +1,6 @@
 #include "main.h"
 
 /**
- *
- *
  * get_endianness -used for checking the endianness
  *
  *

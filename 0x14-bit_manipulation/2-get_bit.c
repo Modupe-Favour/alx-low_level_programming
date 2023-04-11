@@ -1,8 +1,6 @@
 #include "main.h"
 
 /**
- *
- *
  * get_bit - value of a bit at a given index
  *
  *

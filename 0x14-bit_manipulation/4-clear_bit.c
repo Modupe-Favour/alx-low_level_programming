@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 /**
- *
- *
  * clear_bit - sets the value of a bit to 0
  *
  *

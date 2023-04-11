@@ -2,8 +2,6 @@
 #include <stdlib.h>
 
 /**
- *
- *
  * set_bit - sets the value of a bit to 1
  *
  *
