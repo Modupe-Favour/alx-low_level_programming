@@ -25,7 +25,7 @@ void close_elf(int elf);
  *
  *
  *
- * Description: If the file is not an ELF file - exit code 98.
+ * Description1: If the file is not an ELF file - exit code 98.
  *
  *
  */
@@ -54,7 +54,7 @@ void check_elf(unsigned char *e_ident)
  *
  *
  *
- * Description: Magic numbers are separated by spaces.
+ * Description2: Magic numbers are separated by spaces.
  *
  *
  */
@@ -288,7 +288,7 @@ void print_entry(unsigned long int e_entry, unsigned char *e_ident)
  *
  * @elf: The file descriptor of the ELF file.
  *
- * Description: If the file cannot be closed - exit code 98.
+ * Description3: If the file cannot be closed - exit code 98.
  *
  *
  */
@@ -314,7 +314,7 @@ void close_elf(int elf)
  *
  * Return: 0 on success.
  *
- * Description: If the file is not an ELF File or
+ * Description4: If the file is not an ELF File or
  *              the function fails - exit code 98.
  */
 int main(int __attribute__((__unused__)) argc, char *argv[])
